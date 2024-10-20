@@ -12,8 +12,8 @@ steps:
 uses: actions/checkout@vl
 uses: actions/setup-node@vl
 with: 
-node-version:'10.x'
-- uses: actions/cache@vl
+node-version: '10.x'
+uses: actions/cache@vl
 with:
 path: ~/.npm
 key: ${{runner.os}}-node-${{ hashFiles('**/package-lock.json') }}

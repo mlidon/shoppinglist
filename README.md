@@ -2,7 +2,7 @@
 
 Práctica utilizando dos arrays en los que uno añade los elementos de la lista de la compra y el otro añade de la lista de la compra cuáles se tachan.
 
-## Autor →
+## Autor 🖋️
 **Marc Lidon**
  
  * [LinkedIn](www.linkedin.com/in/marc-lidon-5a243377)

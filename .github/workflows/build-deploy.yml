@@ -10,7 +10,7 @@ runs-on: ubuntu-latest
 steps:
 - name: Checkout
 uses: actions/checkout@vl
-- uses: actions/setup-node@vl
+-uses:actions/setup-node@vl
 with: 
 node-version:'10.x'
 - uses: actions/cache@vl

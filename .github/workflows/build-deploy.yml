@@ -43,6 +43,4 @@ jobs:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
          BRANCH: gh-pages
          FOLDER: dist/workshop
-        
-despliegue
-DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+         DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
